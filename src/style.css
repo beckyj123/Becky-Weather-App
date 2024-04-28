@@ -81,6 +81,11 @@ main {
   font-size: 20px;
 }
 
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+}
+
 footer {
   border-top: 1px solid rgb(243, 248, 255);
   padding: 30px 0 0 0;
